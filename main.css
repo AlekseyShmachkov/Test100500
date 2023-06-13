@@ -1,0 +1,49 @@
+*{
+    
+}
+h5{
+    background-color: blue;
+}
+
+#two{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+.two{
+background-color: aquamarine;
+}
+
+.web{
+    background-color: aquamarine;
+    color: brown;
+}
+
+.web33{
+background-color: aliceblue;
+}
+
+
+#span{
+    background-color: rgb(9, 94, 128);
+}
+#test1{
+    color: rgba(214, 54, 33, 0.411);
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
+#big{
+    color: rgb(90, 90, 212);
+}
+span{
+    color: rgba(145, 154, 155, 0.432);
+    /* margin-left: 25px ; */
+}
+h3{
+    margin-left: 25px ;
+    color: rgba(149, 155, 154, 0.603);
+}
+#center{
+    text-align: center;
+    color: rgb(122, 122, 235);
+}
