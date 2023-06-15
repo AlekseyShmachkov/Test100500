@@ -1,4 +1,15 @@
-body{
-<p style="color: #666666; background-color: #ef4444; padding: 20px;">
-
+pre{
+    font-size: xx-small;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.non{
+    color: brown;
+}
+.non::before{
+    display: none;
+}
+#textleft{
+    margin-left: 25px;
 }
